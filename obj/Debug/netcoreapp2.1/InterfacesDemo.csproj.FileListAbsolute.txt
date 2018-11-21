@@ -1,0 +1,11 @@
+C:\Users\dmcna\documents\Class_11-19-18\obj\Debug\netcoreapp2.1\InterfacesDemo.csprojAssemblyReference.cache
+C:\Users\dmcna\documents\Class_11-19-18\obj\Debug\netcoreapp2.1\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\dmcna\documents\Class_11-19-18\obj\Debug\netcoreapp2.1\InterfacesDemo.AssemblyInfoInputs.cache
+C:\Users\dmcna\documents\Class_11-19-18\obj\Debug\netcoreapp2.1\InterfacesDemo.AssemblyInfo.cs
+C:\Users\dmcna\documents\Class_11-19-18\bin\Debug\netcoreapp2.1\InterfacesDemo.deps.json
+C:\Users\dmcna\documents\Class_11-19-18\bin\Debug\netcoreapp2.1\InterfacesDemo.runtimeconfig.json
+C:\Users\dmcna\documents\Class_11-19-18\bin\Debug\netcoreapp2.1\InterfacesDemo.runtimeconfig.dev.json
+C:\Users\dmcna\documents\Class_11-19-18\bin\Debug\netcoreapp2.1\InterfacesDemo.dll
+C:\Users\dmcna\documents\Class_11-19-18\bin\Debug\netcoreapp2.1\InterfacesDemo.pdb
+C:\Users\dmcna\documents\Class_11-19-18\obj\Debug\netcoreapp2.1\InterfacesDemo.dll
+C:\Users\dmcna\documents\Class_11-19-18\obj\Debug\netcoreapp2.1\InterfacesDemo.pdb
